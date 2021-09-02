@@ -1,0 +1,43 @@
+.leading_img {
+    width: 100%;
+    height: 100vh;
+    background: url('./Gelato_img/mainvisual-image1.jpg') center center/ cover no-repeat
+}
+.global_menu{
+    left: 4%;
+}
+.comingsoon{
+    background-color: transparent;
+    width: fit-content;
+    /* position: relative; */
+    
+
+}
+.soonaround{
+    left: 4%;
+    bottom: 30px;
+    /* width: 138px; */
+    /* fill: #fff; */
+    animation: spin 80s linear infinite;
+    }
+.soontext{
+    /* position: absolute; */
+    /* transform: rotate(-15deg); */
+    left: 4%;
+    bottom:80px;
+    /* width: 130px; */
+}
+.soonlogo{
+    /* position: absolute; */
+    fill: transparent;
+    stroke: white;
+    bottom: 20px;
+    left: 3.5%;
+}
+.section_info{
+    background-color: #F9F4EA;
+}
+.limited_time {
+    background-color: rgba(216,139,131,0.1);
+    
+}
