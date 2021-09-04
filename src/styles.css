@@ -3,5 +3,11 @@
 @tailwind utilities;
 
 .card-decorate {
-    @apply w-28 h-28 absolute fill-current text-primary
+    @apply w-28 h-28 absolute fill-current text-primary-100;
+}
+.card-info {
+    @apply font-light leading-tight text-sm my-4;
+}
+.card-see-more{
+    @apply border-b border-primary-100 text-primary-100 font-light;
 }
