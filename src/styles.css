@@ -11,3 +11,6 @@
 .card-see-more{
     @apply border-b border-primary-100 text-primary-100 font-light;
 }
+.tem_button {
+    @apply border border-primary-100 bg-primary-100 text-white hover:text-primary-100 rounded-md px-20 py-2 m-2 transition duration-500 ease-in select-none hover:bg-white tracking-widest;
+}

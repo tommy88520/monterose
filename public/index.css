@@ -40,7 +40,13 @@
 .section_info{
     background-color: #F9F4EA;
 }
+.shop_information,
 .limited_time {
     background-color: rgba(216,139,131,0.1);
     
+}
+.footer {
+    height: 40vh;
+    width: 100%;
+    background: url('./Gelato_img/footer-bg.jpg') center center/ cover no-repeat;
 }
