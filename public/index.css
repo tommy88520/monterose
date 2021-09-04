@@ -3,6 +3,9 @@
     height: 100vh;
     background: url('./Gelato_img/mainvisual-image1.jpg') center center/ cover no-repeat
 }
+.logo_icon {
+    left: 4%;
+}
 .global_menu{
     left: 4%;
 }

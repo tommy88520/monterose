@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.card-decorate {
+    @apply w-28 h-28 absolute fill-current text-primary
+}
